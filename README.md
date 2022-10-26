@@ -11,7 +11,7 @@ S
 
 ## 1. [Best Practices](#best-Practices)
 
-- [Restarting After Every Shif](#frequent-restarts)
+- [Restarting After Every Shift](#frequent-restarts)
 
 - [Long Uptimes](#long-uptimes)
 
