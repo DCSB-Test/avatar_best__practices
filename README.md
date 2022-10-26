@@ -20,6 +20,8 @@ S
 - [Telehealth Connectivity](#telehealth-connectivity)
 - [Not Receiving Link](#not-receiving-links)
 
+## 3. [Bill Rhinehardt](#bill-rhinehardt)
+
 
 
 # Best Practices
@@ -56,3 +58,5 @@ If you are finding that your system is slow, please follow the [Frequent Restart
 
 If you or your client did not receive a teleehealth link, access the telehealth console via Luanch Telehealth, click on the appointment and then click resend link.
 TODO: ADD PICTURES
+
+# Bill Rhinehardt
