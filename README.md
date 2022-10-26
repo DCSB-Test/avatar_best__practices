@@ -13,7 +13,7 @@ S
 
 - [Restarting After Every Shif](#frequent-restarts)
 
-- [Long Uptimes](#2-long-uptimes)
+- [Long Uptimes](#long-uptimes)
 
 ## 2. [Common Problems](#common-problems)
 
