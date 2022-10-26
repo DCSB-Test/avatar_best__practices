@@ -55,3 +55,4 @@ If you are finding that your system is slow, please follow the [Frequent Restart
 ### Not Receiving Links:
 
 If you or your client did not receive a teleehealth link, access the telehealth console via Luanch Telehealth, click on the appointment and then click resend link.
+TODO: ADD PICTURES
