@@ -18,6 +18,7 @@ S
 ## 2. [Common Problems](#common-problems)
 
 - [Telehealth Connectivity](#telehealth-connectivity)
+- [Not Receiving Link](#not-receiving-links)
 
 
 
@@ -51,4 +52,6 @@ If you are finding that your system is slow, please follow the [Frequent Restart
 
 ## Telehealth Connectivity:
 
-TODO: (Make Section on checking telehealth connectivity)
+### Not Receiving Links:
+
+If you or your client did not receive a teleehealth link, access the telehealth console via Luanch Telehealth, click on the appointment and then click resend link.
