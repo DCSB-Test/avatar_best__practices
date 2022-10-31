@@ -3,13 +3,13 @@
 
 This is a one stop document containing all myAvatar best practices and trouble shooting guides.
 Below is the Table of Context where the the main sections are 'Best Practices' and 'Common Problems'.
-S
 
+If you have an suggests for this document, please send them to ITS!
 
 
 # Table of Contents
 
-## 1. [Best Practices](#best-Practices)
+## 1. [Best Practices](#best-practices)
 
 - [Restarting After Every Shift](#frequent-restarts)
 
@@ -19,8 +19,8 @@ S
 
 - [Telehealth Connectivity](#telehealth-connectivity)
 - [Not Receiving Link](#not-receiving-links)
+- [Meet Now](#meet-now)
 
-## 3. [Bill Rhinehardt](#bill-rhinehardt)
 
 
 
@@ -52,11 +52,15 @@ If you are finding that your system is slow, please follow the [Frequent Restart
 
 # Common Problems
 
-## Telehealth Connectivity:
+## Telehealth Issues:
 
 ### Not Receiving Links:
 
-If you or your client did not receive a teleehealth link, access the telehealth console via Luanch Telehealth, click on the appointment and then click resend link.
-TODO: ADD PICTURES
+If you or your client did not receive a teleehealth link, access the telehealth console via Luanch Telehealth, click on the appointment and then click resend link. This will resend links to the clients most resently entered contact information incase it has changed or there was a previous error sending the link.
 
-# Bill Rhinehardt
+
+### Meet Now:
+
+If all else fails trying to connect using the scheduled telehealth appointment, you can use the meet now button to meet with a client. After clicking the "Meet Now" button, select yourself as the provider. Once you are in a meeting, you can add a participate buy clicking the "participants" button show here:
+
+Next click "add participant(s)" which will give you a form to enter the clients first and last name, contact method, and contact information. Fill this form out and click "Add". This will send adirect link to the client that they can then join with.
