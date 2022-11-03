@@ -61,6 +61,6 @@ If you or your client did not receive a teleehealth link, access the telehealth 
 
 ### Meet Now:
 
-If all else fails trying to connect using the scheduled telehealth appointment, you can use the meet now button to meet with a client. After clicking the "Meet Now" button, select yourself as the provider. Once you are in a meeting, you can add a participate buy clicking the "participants" button show here:
+If all else fails trying to connect using the scheduled telehealth appointment, you can use the meet now button to meet with a client. After clicking the "Meet Now" button, select yourself as the provider. Once you are in a meeting, you can add a participate buy clicking the "participants" button.
 
 Next click "add participant(s)" which will give you a form to enter the clients first and last name, contact method, and contact information. Fill this form out and click "Add". This will send adirect link to the client that they can then join with.
